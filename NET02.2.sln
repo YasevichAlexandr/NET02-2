@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET02.2", "NET02.2\NET02.2.csproj", "{AD0410CA-B18A-4320-A792-0F0ED9668AE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{1FA02AE3-1423-4BD1-967F-84FD6D04609D}"
+	ProjectSection(SolutionItems) = preProject
+		config.xml = config.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0410CA-B18A-4320-A792-0F0ED9668AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0410CA-B18A-4320-A792-0F0ED9668AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0410CA-B18A-4320-A792-0F0ED9668AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0410CA-B18A-4320-A792-0F0ED9668AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4191DBD2-A50A-4677-A7F1-BF0A9D3F6513}
+	EndGlobalSection
+EndGlobal
